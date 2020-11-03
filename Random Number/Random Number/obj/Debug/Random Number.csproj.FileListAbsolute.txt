@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\bin\Debug\Random Number.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\bin\Debug\Random Number.exe
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\bin\Debug\Random Number.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random Number.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random_Number.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random_Number.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random Number.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random Number.exe
+C:\Users\Nedlog\Documents\Programs\C#\Random Number\Random Number\obj\Debug\Random Number.pdb

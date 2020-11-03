@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\bin\Debug\Starting radiobox and checkbox.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\bin\Debug\Starting radiobox and checkbox.exe
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\bin\Debug\Starting radiobox and checkbox.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting radiobox and checkbox.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting_radiobox_and_checkbox.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting_radiobox_and_checkbox.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting radiobox and checkbox.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting radiobox and checkbox.exe
+C:\Users\Nedlog\Documents\Programs\C#\Starting radiobox and checkbox\Starting radiobox and checkbox\obj\Debug\Starting radiobox and checkbox.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\bin\Debug\Second astericks.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\bin\Debug\Second astericks.exe
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\bin\Debug\Second astericks.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\obj\Debug\Second astericks.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\obj\Debug\Second astericks.exe
+C:\Users\Nedlog\Documents\Programs\C#\Second astericks\Second astericks\obj\Debug\Second astericks.pdb

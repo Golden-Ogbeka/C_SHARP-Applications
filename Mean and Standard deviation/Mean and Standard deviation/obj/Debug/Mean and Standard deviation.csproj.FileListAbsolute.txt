@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\bin\Debug\Mean and Standard deviation.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\bin\Debug\Mean and Standard deviation.exe
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\bin\Debug\Mean and Standard deviation.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\obj\Debug\Mean and Standard deviation.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\obj\Debug\Mean and Standard deviation.exe
+C:\Users\Nedlog\Documents\Programs\C#\Mean and Standard deviation\Mean and Standard deviation\obj\Debug\Mean and Standard deviation.pdb

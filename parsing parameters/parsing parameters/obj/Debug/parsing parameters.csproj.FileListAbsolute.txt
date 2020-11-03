@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\parsing parameters\parsing parameters\bin\Debug\parsing parameters.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\parsing parameters\parsing parameters\bin\Debug\parsing parameters.exe
+C:\Users\Nedlog\Documents\Programs\C#\parsing parameters\parsing parameters\bin\Debug\parsing parameters.pdb
+C:\Users\Nedlog\Documents\Programs\C#\parsing parameters\parsing parameters\obj\Debug\parsing parameters.exe
+C:\Users\Nedlog\Documents\Programs\C#\parsing parameters\parsing parameters\obj\Debug\parsing parameters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\bin\Debug\Day, month and year.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\obj\Debug\Day, month and year.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\bin\Debug\Day, month and year.exe
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\bin\Debug\Day, month and year.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\obj\Debug\Day, month and year.exe
+C:\Users\Nedlog\Documents\Programs\C#\Day, month and year\Day, month and year\obj\Debug\Day, month and year.pdb

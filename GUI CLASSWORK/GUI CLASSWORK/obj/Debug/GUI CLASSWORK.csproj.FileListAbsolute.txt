@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\bin\Debug\GUI CLASSWORK.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\bin\Debug\GUI CLASSWORK.exe
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\bin\Debug\GUI CLASSWORK.pdb
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI CLASSWORK.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI_CLASSWORK.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI_CLASSWORK.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI CLASSWORK.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI CLASSWORK.exe
+C:\Users\Nedlog\Documents\Programs\C#\GUI CLASSWORK\GUI CLASSWORK\obj\Debug\GUI CLASSWORK.pdb

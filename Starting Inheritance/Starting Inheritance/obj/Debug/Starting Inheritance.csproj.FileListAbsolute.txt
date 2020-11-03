@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\bin\Debug\Starting Inheritance.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\bin\Debug\Starting Inheritance.exe
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\bin\Debug\Starting Inheritance.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\obj\Debug\Starting Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\obj\Debug\Starting Inheritance.exe
+C:\Users\Nedlog\Documents\Programs\C#\Starting Inheritance\Starting Inheritance\obj\Debug\Starting Inheritance.pdb

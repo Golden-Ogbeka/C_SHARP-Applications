@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\bin\Debug\classwork.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\bin\Debug\classwork.exe
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\bin\Debug\classwork.pdb
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\obj\Debug\classwork.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\obj\Debug\classwork.exe
+C:\Users\Nedlog\Documents\Programs\C#\classwork\classwork\obj\Debug\classwork.pdb

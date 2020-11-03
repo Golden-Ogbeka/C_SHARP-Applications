@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\bin\Debug\For Test.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\bin\Debug\For Test.exe
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\bin\Debug\For Test.pdb
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\obj\Debug\For Test.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\obj\Debug\For Test.exe
+C:\Users\Nedlog\Documents\Programs\C#\For Test\For Test\obj\Debug\For Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Nedlog\Documents\Programs\C#\Constructor\Constructor\obj\Debug\Constructor.pdb

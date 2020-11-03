@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\classwork2\classwork2\bin\Debug\classwork2.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\classwork2\classwork2\bin\Debug\classwork2.exe
+C:\Users\Nedlog\Documents\Programs\C#\classwork2\classwork2\bin\Debug\classwork2.pdb
+C:\Users\Nedlog\Documents\Programs\C#\classwork2\classwork2\obj\Debug\classwork2.exe
+C:\Users\Nedlog\Documents\Programs\C#\classwork2\classwork2\obj\Debug\classwork2.pdb

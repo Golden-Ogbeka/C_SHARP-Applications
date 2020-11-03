@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Nedlog\Documents\Programs\C#\Interface\Interface\obj\Debug\Interface.pdb

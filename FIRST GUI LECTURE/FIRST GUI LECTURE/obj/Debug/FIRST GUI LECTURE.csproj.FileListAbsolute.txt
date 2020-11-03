@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\bin\Debug\FIRST GUI LECTURE.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST_GUI_LECTURE.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST_GUI_LECTURE.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST GUI LECTURE.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\bin\Debug\FIRST GUI LECTURE.exe
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\bin\Debug\FIRST GUI LECTURE.pdb
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST GUI LECTURE.exe
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST GUI LECTURE.pdb
+C:\Users\Nedlog\Documents\Programs\C#\FIRST GUI LECTURE\FIRST GUI LECTURE\obj\Debug\FIRST GUI LECTURE.csprojResolveAssemblyReference.cache

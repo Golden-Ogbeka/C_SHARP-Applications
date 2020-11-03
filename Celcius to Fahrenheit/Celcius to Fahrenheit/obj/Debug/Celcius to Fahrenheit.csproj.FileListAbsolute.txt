@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.exe
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.exe
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.csprojResolveAssemblyReference.cache

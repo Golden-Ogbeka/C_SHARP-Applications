@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Array reverse\Array reverse\bin\Debug\Array reverse.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Array reverse\Array reverse\bin\Debug\Array reverse.exe
+C:\Users\Nedlog\Documents\Programs\C#\Array reverse\Array reverse\bin\Debug\Array reverse.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Array reverse\Array reverse\obj\Debug\Array reverse.exe
+C:\Users\Nedlog\Documents\Programs\C#\Array reverse\Array reverse\obj\Debug\Array reverse.pdb

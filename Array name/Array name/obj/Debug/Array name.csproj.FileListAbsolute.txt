@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\bin\Debug\Array name.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\obj\Debug\Array name.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\bin\Debug\Array name.exe
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\bin\Debug\Array name.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\obj\Debug\Array name.exe
+C:\Users\Nedlog\Documents\Programs\C#\Array name\Array name\obj\Debug\Array name.pdb

@@ -1,0 +1,1 @@
+C:\Users\Nedlog\Documents\Programs\C#\Transpose of Matrix\Transpose of Matrix\bin\Debug\Transpose of Matrix.exe.config

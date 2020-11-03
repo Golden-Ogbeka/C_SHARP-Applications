@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Addition iof integers\Addition iof integers\bin\Debug\Addition iof integers.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Addition iof integers\Addition iof integers\bin\Debug\Addition iof integers.exe
+C:\Users\Nedlog\Documents\Programs\C#\Addition iof integers\Addition iof integers\bin\Debug\Addition iof integers.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Addition iof integers\Addition iof integers\obj\Debug\Addition iof integers.exe
+C:\Users\Nedlog\Documents\Programs\C#\Addition iof integers\Addition iof integers\obj\Debug\Addition iof integers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Triangular asterisks integer\Triangular asterisks integer\bin\Debug\Triangular asterisks integer.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Triangular asterisks integer\Triangular asterisks integer\bin\Debug\Triangular asterisks integer.exe
+C:\Users\Nedlog\Documents\Programs\C#\Triangular asterisks integer\Triangular asterisks integer\bin\Debug\Triangular asterisks integer.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Triangular asterisks integer\Triangular asterisks integer\obj\Debug\Triangular asterisks integer.exe
+C:\Users\Nedlog\Documents\Programs\C#\Triangular asterisks integer\Triangular asterisks integer\obj\Debug\Triangular asterisks integer.pdb

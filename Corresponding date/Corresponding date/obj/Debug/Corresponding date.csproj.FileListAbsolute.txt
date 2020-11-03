@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Corresponding date\Corresponding date\bin\Debug\Corresponding date.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Corresponding date\Corresponding date\bin\Debug\Corresponding date.exe
+C:\Users\Nedlog\Documents\Programs\C#\Corresponding date\Corresponding date\bin\Debug\Corresponding date.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Corresponding date\Corresponding date\obj\Debug\Corresponding date.exe
+C:\Users\Nedlog\Documents\Programs\C#\Corresponding date\Corresponding date\obj\Debug\Corresponding date.pdb

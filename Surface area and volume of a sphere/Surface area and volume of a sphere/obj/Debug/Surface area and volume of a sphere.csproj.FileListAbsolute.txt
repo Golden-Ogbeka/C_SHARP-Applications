@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Surface area and volume of a sphere\Surface area and volume of a sphere\bin\Debug\Surface area and volume of a sphere.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Surface area and volume of a sphere\Surface area and volume of a sphere\bin\Debug\Surface area and volume of a sphere.exe
+C:\Users\Nedlog\Documents\Programs\C#\Surface area and volume of a sphere\Surface area and volume of a sphere\bin\Debug\Surface area and volume of a sphere.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Surface area and volume of a sphere\Surface area and volume of a sphere\obj\Debug\Surface area and volume of a sphere.exe
+C:\Users\Nedlog\Documents\Programs\C#\Surface area and volume of a sphere\Surface area and volume of a sphere\obj\Debug\Surface area and volume of a sphere.pdb

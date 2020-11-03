@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\using while loop to add integers\using while loop to add integers\bin\Debug\using while loop to add integers.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\using while loop to add integers\using while loop to add integers\bin\Debug\using while loop to add integers.exe
+C:\Users\Nedlog\Documents\Programs\C#\using while loop to add integers\using while loop to add integers\bin\Debug\using while loop to add integers.pdb
+C:\Users\Nedlog\Documents\Programs\C#\using while loop to add integers\using while loop to add integers\obj\Debug\using while loop to add integers.exe
+C:\Users\Nedlog\Documents\Programs\C#\using while loop to add integers\using while loop to add integers\obj\Debug\using while loop to add integers.pdb

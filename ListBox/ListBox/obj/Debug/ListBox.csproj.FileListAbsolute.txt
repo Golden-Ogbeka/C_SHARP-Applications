@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\Nedlog\Documents\Programs\C#\ListBox\ListBox\obj\Debug\ListBox.pdb

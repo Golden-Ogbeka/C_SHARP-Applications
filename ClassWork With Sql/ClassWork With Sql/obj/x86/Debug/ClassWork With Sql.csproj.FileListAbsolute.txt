@@ -1,0 +1,9 @@
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\bin\Debug\ClassWork With Sql.exe
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\bin\Debug\ClassWork With Sql.pdb
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork_With_Sql.Form1.resources
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork_With_Sql.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork With Sql.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork With Sql.exe
+C:\Users\Nedlog\Documents\Programs\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork With Sql.pdb
+C:\Users\Nedlog\Documents\Programs\C#\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork With Sql.exe
+C:\Users\Nedlog\Documents\Programs\C#\ClassWork With Sql\ClassWork With Sql\obj\x86\Debug\ClassWork With Sql.pdb

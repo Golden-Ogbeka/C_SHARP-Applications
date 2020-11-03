@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\bin\Debug\Class for Bank Account.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\bin\Debug\Class for Bank Account.exe
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\bin\Debug\Class for Bank Account.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\obj\Debug\Class for Bank Account.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\obj\Debug\Class for Bank Account.exe
+C:\Users\Nedlog\Documents\Programs\C#\Class for Bank Account\Class for Bank Account\obj\Debug\Class for Bank Account.pdb

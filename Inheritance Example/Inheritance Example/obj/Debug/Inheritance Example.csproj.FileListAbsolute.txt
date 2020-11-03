@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.exe
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\bin\Debug\Inheritance Example.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.exe
+C:\Users\Nedlog\Documents\Programs\C#\Inheritance Example\Inheritance Example\obj\Debug\Inheritance Example.pdb

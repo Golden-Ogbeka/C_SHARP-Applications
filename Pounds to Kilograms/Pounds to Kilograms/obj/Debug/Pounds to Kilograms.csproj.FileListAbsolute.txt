@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Pounds to Kilograms\Pounds to Kilograms\bin\Debug\Pounds to Kilograms.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Pounds to Kilograms\Pounds to Kilograms\bin\Debug\Pounds to Kilograms.exe
+C:\Users\Nedlog\Documents\Programs\C#\Pounds to Kilograms\Pounds to Kilograms\bin\Debug\Pounds to Kilograms.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Pounds to Kilograms\Pounds to Kilograms\obj\Debug\Pounds to Kilograms.exe
+C:\Users\Nedlog\Documents\Programs\C#\Pounds to Kilograms\Pounds to Kilograms\obj\Debug\Pounds to Kilograms.pdb

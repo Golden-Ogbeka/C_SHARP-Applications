@@ -1,0 +1,5 @@
+C:\Users\Nedlog\Documents\Programs\C#\Adding array mixtures\Adding array mixtures\bin\Debug\Adding array mixtures.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Adding array mixtures\Adding array mixtures\bin\Debug\Adding array mixtures.exe
+C:\Users\Nedlog\Documents\Programs\C#\Adding array mixtures\Adding array mixtures\bin\Debug\Adding array mixtures.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Adding array mixtures\Adding array mixtures\obj\Debug\Adding array mixtures.exe
+C:\Users\Nedlog\Documents\Programs\C#\Adding array mixtures\Adding array mixtures\obj\Debug\Adding array mixtures.pdb

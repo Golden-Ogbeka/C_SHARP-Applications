@@ -1,0 +1,16 @@
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\bin\Debug\NUMBER ONE PROJECT.exe
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\bin\Debug\NUMBER ONE PROJECT.pdb
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER_ONE_PROJECT.Form1.resources
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER_ONE_PROJECT.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.exe
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.pdb
+C:\Users\Nedlog\Documents\Programs\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.exe
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.pdb
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\bin\Debug\NUMBER ONE PROJECT.exe
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\bin\Debug\NUMBER ONE PROJECT.pdb
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER_ONE_PROJECT.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER_ONE_PROJECT.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\NUMBER ONE PROJECT\NUMBER ONE PROJECT\obj\x86\Debug\NUMBER ONE PROJECT.csproj.GenerateResource.Cache

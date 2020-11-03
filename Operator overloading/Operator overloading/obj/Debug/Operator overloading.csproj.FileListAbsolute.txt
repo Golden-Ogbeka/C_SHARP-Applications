@@ -1,0 +1,6 @@
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\bin\Debug\Operator overloading.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\bin\Debug\Operator overloading.exe
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\bin\Debug\Operator overloading.pdb
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\obj\Debug\Operator overloading.csprojResolveAssemblyReference.cache
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\obj\Debug\Operator overloading.exe
+C:\Users\Nedlog\Documents\Programs\C#\Operator overloading\Operator overloading\obj\Debug\Operator overloading.pdb

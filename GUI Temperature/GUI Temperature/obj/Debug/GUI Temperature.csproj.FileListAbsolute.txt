@@ -1,0 +1,8 @@
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\bin\Debug\GUI Temperature.exe.config
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\obj\Debug\GUI_Temperature.Form1.resources
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\obj\Debug\GUI_Temperature.Properties.Resources.resources
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\obj\Debug\GUI Temperature.csproj.GenerateResource.Cache
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\bin\Debug\GUI Temperature.exe
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\bin\Debug\GUI Temperature.pdb
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\obj\Debug\GUI Temperature.exe
+C:\Users\Nedlog\Documents\Programs\C#\GUI Temperature\GUI Temperature\obj\Debug\GUI Temperature.pdb
